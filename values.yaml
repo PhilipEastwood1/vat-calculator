@@ -1,0 +1,2 @@
+image: philipeastwood1/vatcalc:<+pipeline.sequenceId>
+replicas: 1
